@@ -1,0 +1,31 @@
+return {
+    Version = {
+        { Title = "HUB Version", Content = "1.9", Duration = "15" }
+    },
+    Updates = {
+        {
+            Title = "HUB Version 1.9 | Dead Rails.",
+            Content = "[+] Main Tab Better System.\n[+] Lag Esp Fix.\n[+] Main Tab Lag Fixed.\n[+] Security System Improvements.\n[+] New Tab Visual.\n[+] Add Instant Bandage.\n[+] No Spread Weapons.\n[+] 2x Magazine Weapons.\n[+] Auto Win.\n[+] Auto Win + Collect Bonds.\n[+] Teleport Train Support All Trains.\n[+] Dupe Itens. [Visual]\n[+] Support All Itens Dropdown Dupe.\n[+] Bonds Giver. [Visual]\n[+] Bonds Giver Input.\n[+] Money Giver. [Visual]\n[+] Money Giver Input.\n[+] Better Auto Farm System.\n[+] Better Collect Bonds System.\n[+] Better Bring Bonds System.\n[+] Better Bring Itens System.\n[+] New Option \"Select Mode (Global)\".\n[+] Fixed Esp System.\n[+] Instant Reload Support All Weapons.\n[+] Kill Aura Fix Lag.\n[+] Auto Fuel V2.\n[+] Auto Fuel New System.\n[+] Expand Fuel Zone.\n[+] Expand Fuel Zone Size.\n[+] Expand Fuel Zone Transparency.\n[+] New System \"Anti Death\".\n[+] Anti Death Options.\n[+] Auto Collect Bonds Nearest Toggle.\n[○] Starting Grow A Garden Project."
+        },
+        {
+            Title = "HUB Version 1.8 | VolleyBall Legends.",
+            Content = "[+] New Style Add"
+        },
+        {
+            Title = "HUB Version 1.7 | Dead Rails + VolleyBall Legends.",
+            Content = "[+] More Fast Tab Main Functions.\n[+] Bug Fixes.\n[+] Security System.\n[!] New Script: VolleyBall Legends Inf Spin."
+        },
+        {
+            Title = "HUB Version 1.6 | Dead Rails.",
+            Content = "[+] Event Stillwater Prison More Functions.\n[+] Get Blunderbuss.\n[+] Get Elephant Rifle.\n[+] Bring Blunderbuss Ammo.\n[+] Bring Elephant Rifle Ammo.\n[+] Bring Crossbow Ammo.\n[+] Add Bring Item Crossbow Ammo.\n[+] Auto Lobby Better System.\n[+] Auto Farm Bonds Better System.\n[+] Auto Collect Bonds Better System.\n[+] Auto Bring Bonds Better System.\n[+] Bring Item Better System.\n[+] Kill Aura Melee Support Excalibur.\n[+] Super Melee Support Excalibur.\n[+] Kill Aura Support Blunderbuss.\n[+] Kill Aura Support Elephant Rifle.\n[+] Kill Aura Support Crossbow.\n[+] Silent Aim Support Blunderbuss.\n[+] Silent Aim Support Elephant Rifle.\n[+] Silent Aim Support Crossbow.\n[+] Bugs Fixed."
+        },
+        {
+            Title = "HUB Version 1.5 | Dead Rails.",
+            Content = "[+] Stillwater Prison Event Functions.\n[+] Auto Exec System.\n[+] Auto Pick Guns.\n[+] Auto Pick Ammo."
+        },
+        {
+            Title = "HUB Version 1.4 | Dead Rails.",
+            Content = "[!] Script Released."
+        }
+    }
+}
