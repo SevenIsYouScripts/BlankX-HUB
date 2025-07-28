@@ -1,8 +1,12 @@
 return {
     Version = {
-        { Title = "HUB Version", Content = "1.9", Duration = "15" }
+        { Title = "HUB Version", Content = "2.0", Duration = "15" }
     },
     Updates = {
+        {
+            Title = "HUB Version 2.0 | Grow A Garden.",
+            Content = "[!] New Script: Grow A Garden"
+        },
         {
             Title = "HUB Version 1.9 | Dead Rails.",
             Content = "[+] Main Tab Better System.\n[+] Lag Esp Fix.\n[+] Main Tab Lag Fixed.\n[+] Security System Improvements.\n[+] New Tab Visual.\n[+] Add Instant Bandage.\n[+] No Spread Weapons.\n[+] 2x Magazine Weapons.\n[+] Auto Win.\n[+] Auto Win + Collect Bonds.\n[+] Teleport Train Support All Trains.\n[+] Dupe Itens. [Visual]\n[+] Support All Itens Dropdown Dupe.\n[+] Bonds Giver. [Visual]\n[+] Bonds Giver Input.\n[+] Money Giver. [Visual]\n[+] Money Giver Input.\n[+] Better Auto Farm System.\n[+] Better Collect Bonds System.\n[+] Better Bring Bonds System.\n[+] Better Bring Itens System.\n[+] New Option \"Select Mode (Global)\".\n[+] Fixed Esp System.\n[+] Instant Reload Support All Weapons.\n[+] Kill Aura Fix Lag.\n[+] Auto Fuel V2.\n[+] Auto Fuel New System.\n[+] Expand Fuel Zone.\n[+] Expand Fuel Zone Size.\n[+] Expand Fuel Zone Transparency.\n[+] New System \"Anti Death\".\n[+] Anti Death Options.\n[+] Auto Collect Bonds Nearest Toggle.\n[○] Starting Grow A Garden Project."
