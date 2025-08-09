@@ -4,6 +4,10 @@ return {
     },
     Updates = {
         {
+            Title = "Found A Bug? Report To Me: S7venIsMyName#8950",
+            Content = "List Of Supported Games.\n• Dead Rails.\n• Volley Ball Legends INF Spins.(Temporarily Patched)\n• Grow A Garden."
+        },
+        {
             Title = "HUB Version 2.0 | Grow A Garden.",
             Content = "[!] New Script: Grow A Garden"
         },
