@@ -1,15 +1,19 @@
 return {
     Version = {
-        { Title = "HUB Version", Content = "2.0", Duration = "15" }
+        { Title = "HUB Version", Content = "2.1", Duration = "15" }
     },
     Updates = {
         {
             Title = "Found A Bug? Report To Me: S7venIsMyName#8950",
-            Content = "List Of Supported Games.\n• Dead Rails.\n• Volley Ball Legends INF Spins.(Temporarily Patched)\n• Grow A Garden."
+            Content = "List Of Supported Games.\n• Dead Rails.\n• Volley Ball Legends INF Spins.(Temporarily Patched)\n• Grow A Garden.\n• Steal A Brainrot."
+        },
+        {
+            Title = "HUB Version 2.1 | Steal A Brainrot.",
+            Content = "[!] New Script: Steal A Brainrot."
         },
         {
             Title = "HUB Version 2.0 | Grow A Garden.",
-            Content = "[!] New Script: Grow A Garden"
+            Content = "[!] New Script: Grow A Garden."
         },
         {
             Title = "HUB Version 1.9 | Dead Rails.",
@@ -17,7 +21,7 @@ return {
         },
         {
             Title = "HUB Version 1.8 | VolleyBall Legends.",
-            Content = "[+] New Style Add"
+            Content = "[+] New Style Add."
         },
         {
             Title = "HUB Version 1.7 | Dead Rails + VolleyBall Legends.",
