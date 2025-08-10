@@ -23,6 +23,6 @@ if placeId == 126884695634066 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/GrowAGarden"))()
 end
 
-if placeId == 109983668079237 then
+if placeId == 109983668079237 or placeId == 96342491571673 or placeId == 128762245270197 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/StealABrainrot"))()
 end
