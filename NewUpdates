@@ -1,11 +1,15 @@
 return {
     Version = {
-        { Title = "HUB Version", Content = "2.1", Duration = "15" }
+        { Title = "HUB Version", Content = "2.2", Duration = "15" }
     },
     Updates = {
         {
             Title = "Found A Bug? Report To Me: S7venIsMyName#8950",
-            Content = "List Of Supported Games.\n• Dead Rails.\n• Volley Ball Legends INF Spins.(Temporarily Patched)\n• Grow A Garden.\n• Steal A Brainrot."
+            Content = "List Of Supported Games.\n• Dead Rails.\n• Volley Ball Legends INF Spins.\n• Grow A Garden.\n• Steal A Brainrot. (Temporarily Patched)"
+        },
+        {
+            Title = "HUB Version 2.2 | VolleyBall Legends INF Spins.",
+            Content = "[!] Script Fixed."
         },
         {
             Title = "HUB Version 2.1 | Steal A Brainrot.",
