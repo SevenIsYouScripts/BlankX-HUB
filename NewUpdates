@@ -5,7 +5,7 @@ return {
     Updates = {
         {
             Title = "Found A Bug? Report To Me: S7venIsMyName#8950",
-            Content = "List Of Supported Games.\n• Dead Rails.\n• Volley Ball Legends INF Spins.\n• Grow A Garden.\n• Steal A Brainrot."
+            Content = ""
         },
         {
             Title = "HUB Version 2.4 | Steal A Brainrot.",
