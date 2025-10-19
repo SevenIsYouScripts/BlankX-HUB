@@ -31,6 +31,6 @@ if placeId == 109983668079237 or placeId == 96342491571673 or placeId == 1287622
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/StealABrainrot"))()
 end
 
-if placeId == 126509999114328 then
+if placeId == 126509999114328 or placeId == 79546208627805 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/99"))()
 end
