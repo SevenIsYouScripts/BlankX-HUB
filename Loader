@@ -32,5 +32,5 @@ if placeId == 109983668079237 or placeId == 96342491571673 or placeId == 1287622
 end
 
 if placeId == 126509999114328 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/Survive%2099%20Nights%20In%20The%20Forest"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/99"))()
 end
