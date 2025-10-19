@@ -1,11 +1,19 @@
 return {
     Version = {
-        { Title = "HUB Version", Content = "2.4", Duration = "15" }
+        { Title = "HUB Version", Content = "2.6", Duration = "15" }
     },
     Updates = {
         {
             Title = "Found A Bug? Report To Me: S7venIsMyName#8950",
             Content = ""
+        },
+        {
+            Title = "HUB Version 2.6 | Survive 99 Night's",
+            Content = "[+] Add Auto Plant."
+        },
+        {
+            Title = "HUB Version 2.5 | Survive 99 Night's",
+            Content = "[+] Script Released."
         },
         {
             Title = "HUB Version 2.4 | Steal A Brainrot.",
