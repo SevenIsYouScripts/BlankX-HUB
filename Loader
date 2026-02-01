@@ -34,3 +34,7 @@ end
 if placeId == 126509999114328 or placeId == 79546208627805 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/99"))()
 end
+
+if placeId == 14511049 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SevenIsYouScripts/BlankX-HUB/refs/heads/main/Scripts/Delta_Mamada_TURBOV2"))()
+end
